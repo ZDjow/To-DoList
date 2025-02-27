@@ -92,7 +92,7 @@ Algumas inconsistências aconteceram na hora de subir o front por causa de uma i
    ```
 2. npm start (front):
    ```sh
-   Usado variável de ambiente antes do start:
+   Usada variável de ambiente:
    $env:NODE_OPTIONS="--openssl-legacy-provider"
    yarn start
    ```
