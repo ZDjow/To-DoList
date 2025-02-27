@@ -1,0 +1,5 @@
+{
+  "scripts": {
+    "start": "concurrently \"cd ./serverless && yarn start\" \"cd ./frontend && set NODE_OPTIONS=--openssl-legacy-provider && yarn start\""
+  }
+}
