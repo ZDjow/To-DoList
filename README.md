@@ -85,14 +85,17 @@ Vocês chegaram ao repositório do desafio técnico da UNO Soluções e de uma T
 Algumas inconsistências aconteceram na hora de subir o front por causa de uma incompatibilidade na versão do Node.js (versão utilizada: v22.14.0).
 
 1. npm install (front):
-   Houve conflito nas dependências entre o "styled-components e o "@mui/styled-engine-sc". Usado legado na instalação:
+   ```sh
+   Houve conflito nas dependências entre o styled-components e o @mui/styled-engine-sc.
+   Usado legado na instalação:
    npm install --legacy-peer-deps
-
+   ```
 2. npm start (front):
+   ```sh
    Usado variável de ambiente antes do start:
    $env:NODE_OPTIONS="--openssl-legacy-provider"
    yarn start
-
+   ```
 3. Se a sua versão do Node.js for mais antiga e você tentar rodar o projeto com apenas um terminal
    ou direto pelo .bat retirar a variável de ambiente do package.json da raiz do projeto.
 
