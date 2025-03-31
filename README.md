@@ -2,7 +2,7 @@
 
 ## 📌 Buenas Senhores! Tudo certo?
 
-Esse repositório se trada de uma TODO List funcional e um teste de um desenvolvedor back se aventurando no front-end!
+Esse repositório se trada de uma To-Do List funcional e um teste de um desenvolvedor back se aventurando no front-end!
 
 ## 🚀 Tecnologias Utilizadas
 
