@@ -1,8 +1,8 @@
-# UNO | Challenge
+# To-Do List
 
 ## 📌 Buenas Senhores! Tudo certo?
 
-Vocês chegaram ao repositório do desafio técnico da UNO Soluções e de uma TODO List funcional!
+Esse repositório se trada de uma TODO List funcional e um teste de um desenvolvedor back se aventurando no front-end!
 
 ## 🚀 Tecnologias Utilizadas
 
