@@ -48,7 +48,7 @@ Esse repositório se trada de uma To-Do List funcional e um teste de um desenvol
 
 1. Clone este repositório:
    ```sh
-   git clone https://github.com/ZDjow/Uno-Solucoes.git
+   git clone https://github.com/ZDjow/To-DoList.git
    ```
 2. Para rodar dessa forma certifique-se que tem o concurrently adicionado na raiz do projeto:
    ```sh
